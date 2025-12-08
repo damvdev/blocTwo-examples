@@ -1,1 +1,2 @@
-# blocTwo-examples
+# Exemple i exercicis resolts del bloc2
+
